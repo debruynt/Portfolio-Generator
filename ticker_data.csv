@@ -1,0 +1,101 @@
+Symbol,GICS Sector,GICS Sub-Industry,Market Cap
+AAPL,Information Technology,"Technology Hardware, Storage & Peripherals",2294266200064.0
+MSFT,Information Technology,Systems Software,1815129096192.0
+GOOGL,Communication Services,Interactive Media & Services,1262279589888.0
+GOOG,Communication Services,Interactive Media & Services,1244820537344.0
+AMZN,Consumer Discretionary,Internet & Direct Marketing Retail,958449713152.0
+UNH,Health Care,Managed Health Care,501319041024.0
+XOM,Energy,Integrated Oil & Gas,467865239552.0
+JNJ,Health Care,Pharmaceuticals,466838978560.0
+WMT,Consumer Staples,Hypermarkets & Super Centers,425818324992.0
+JPM,Financials,Diversified Banks,406857482240.0
+NVDA,Information Technology,Semiconductors,394408853504.0
+PG,Consumer Staples,Personal Products,354764685312.0
+LLY,Health Care,Pharmaceuticals,349892640768.0
+CVX,Energy,Integrated Oil & Gas,343822794752.0
+MA,Information Technology,Data Processing & Outsourced Services,338579324928.0
+HD,Consumer Discretionary,Home Improvement Retail,333029048320.0
+BAC,Financials,Diversified Banks,295706787840.0
+ABBV,Health Care,Pharmaceuticals,280180260864.0
+PFE,Health Care,Pharmaceuticals,278229975040.0
+MRK,Health Care,Pharmaceuticals,273938186240.0
+KO,Consumer Staples,Soft Drinks,270827634688.0
+PEP,Consumer Staples,Soft Drinks,254255497216.0
+COST,Consumer Staples,Hypermarkets & Super Centers,235426906112.0
+ORCL,Information Technology,Application Software,217347915776.0
+TMO,Health Care,Life Sciences Tools & Services,212797751296.0
+AVGO,Information Technology,Semiconductors,211499237376.0
+MCD,Consumer Discretionary,Restaurants,203908218880.0
+CSCO,Information Technology,Communications Equipment,202782703616.0
+WFC,Financials,Diversified Banks,187320057856.0
+TMUS,Communication Services,Wireless Telecommunication Services,187232583680.0
+DHR,Health Care,Health Care Equipment,186618937344.0
+ABT,Health Care,Health Care Equipment,183754850304.0
+TSLA,Consumer Discretionary,Automobile Manufacturers,183699226624.0
+ACN,Information Technology,IT Consulting & Other Services,183248879616.0
+DIS,Communication Services,Movies & Entertainment,173931888640.0
+BMY,Health Care,Health Care Distributors,168264302592.0
+LIN,Materials,Industrial Gases,166952124416.0
+NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",166132776960.0
+NEE,Utilities,Multi-Utilities,164289986560.0
+COP,Energy,Oil & Gas Exploration & Production,163338764288.0
+CMCSA,Communication Services,Cable & Satellite,162607857664.0
+MS,Financials,Investment Banking & Brokerage,161299513344.0
+VZ,Communication Services,Integrated Telecommunication Services,160522354688.0
+TXN,Information Technology,Semiconductors,159770001408.0
+UPS,Industrials,Air Freight & Logistics,156367339520.0
+ADBE,Information Technology,Application Software,152938151936.0
+PM,Consumer Staples,Tobacco,151993303040.0
+CRM,Information Technology,Application Software,151384653824.0
+SCHW,Financials,Investment Banking & Brokerage,150926589952.0
+AMGN,Health Care,Biotechnology,150800089088.0
+HON,Industrials,Industrial Conglomerates,148541030400.0
+RTX,Industrials,Aerospace & Defense,145037983744.0
+LOW,Consumer Discretionary,Home Improvement Retail,140840075264.0
+DE,Industrials,Agricultural & Farm Machinery,135631044608.0
+T,Communication Services,Integrated Telecommunication Services,134130139136.0
+UNP,Industrials,Railroads,134052511744.0
+QCOM,Information Technology,Semiconductors,133884805120.0
+LMT,Industrials,Aerospace & Defense,133262540800.0
+CVS,Health Care,Health Care Services,132547231744.0
+IBM,Information Technology,IT Consulting & Other Services,131024052224.0
+GS,Financials,Investment Banking & Brokerage,127546875904.0
+CAT,Industrials,Construction Machinery & Heavy Trucks,125660831744.0
+NFLX,Communication Services,Movies & Entertainment,124544819200.0
+AMD,Information Technology,Semiconductors,118008627200.0
+INTC,Information Technology,Semiconductors,116824580096.0
+AXP,Financials,Consumer Finance,112735043584.0
+INTU,Information Technology,Application Software,109200531456.0
+BLK,Financials,Asset Management & Custody Banks,108316844032.0
+ADP,Information Technology,Data Processing & Outsourced Services,107162509312.0
+GILD,Health Care,Biotechnology,106885718016.0
+CI,Health Care,Managed Health Care,105894559744.0
+BA,Industrials,Aerospace & Defense,102407757824.0
+MDT,Health Care,Health Care Equipment,102361350144.0
+AMT,Real Estate,Specialized REITs,99593125888.0
+TJX,Consumer Discretionary,Apparel Retail,95466184704.0
+PYPL,Information Technology,Data Processing & Outsourced Services,93912162304.0
+GE,Industrials,Industrial Conglomerates,93858029568.0
+ISRG,Health Care,Health Care Equipment,93824729088.0
+C,Financials,Diversified Banks,93717069824.0
+CB,Financials,Property & Casualty Insurance,92781608960.0
+MDLZ,Consumer Staples,Packaged Foods & Meats,92277268480.0
+AMAT,Information Technology,Semiconductor Equipment,89016172544.0
+SYK,Health Care,Health Care Equipment,85735333888.0
+MMC,Financials,Insurance Brokers,85014224896.0
+SPGI,Financials,Financial Exchanges & Data,84593410048.0
+ADI,Information Technology,Semiconductors,83529637888.0
+NOC,Industrials,Aerospace & Defense,82583568384.0
+PLD,Real Estate,Industrial REITs,82405384192.0
+MO,Consumer Staples,Tobacco,80916480000.0
+VRTX,Health Care,Biotechnology,80165650432.0
+NOW,Information Technology,Systems Software,79984066560.0
+EOG,Energy,Oil & Gas Exploration & Production,79952543744.0
+REGN,Health Care,Biotechnology,79740985344.0
+TGT,Consumer Discretionary,General Merchandise Stores,79232737280.0
+EL,Consumer Staples,Personal Products,78216486912.0
+BKNG,Consumer Discretionary,Internet & Direct Marketing Retail,76993077248.0
+PGR,Financials,Property & Casualty Insurance,75983691776.0
+DUK,Utilities,Electric Utilities,75864907776.0
+MPC,Energy,Oil & Gas Refining & Marketing,75052482560.0
+HCA,Health Care,Health Care Facilities,72888246272.0
